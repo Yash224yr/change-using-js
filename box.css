@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+#box{
+    border: 1px solid black;
+    margin: 13px;
+    height: 500px;
+    width: 300px;
+}
+#box img{
+    height: 180px;
+    width: 200px;
+}
+a{
+    display: none;
+}
